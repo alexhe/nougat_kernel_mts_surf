@@ -1,1 +1,1 @@
-Leaked MTK source code
+prject: k37mv1_defconfig
